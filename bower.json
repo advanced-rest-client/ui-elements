@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "keywords": [
     "web-components",
@@ -16,7 +16,8 @@
     "paper-masked-input": "advanced-rest-client/paper-masked-input#^1.0.0",
     "arc-icons": "advanced-rest-client/arc-icons#^1.0.0",
     "form-action-bar": "advanced-rest-client/form-action-bar#^1.0.0",
-    "markdown-editor": "advanced-rest-client/markdown-editor#^0.0.2"
+    "markdown-editor": "advanced-rest-client/markdown-editor#^0.0.2",
+    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#latest"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
@@ -29,5 +30,8 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "main": [
+    "ui-elements.html"
   ]
 }
