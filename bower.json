@@ -1,0 +1,31 @@
+{
+  "name": "ui-elements",
+  "version": "1.0.0",
+  "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "arc",
+    "advanced-rest-client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:advanced-rest-client/ui-elements.git"
+  },
+  "dependencies": {
+    "paper-masked-input": "advanced-rest-client/paper-masked-input#^1.0.0",
+    "arc-icons": "advanced-rest-client/arc-icons#^1.0.0"
+  },
+  "homepage": "https://github.com/advanced-rest-client/ui-elements",
+  "authors": [
+    "The Advanced REST Client authors"
+  ],
+  "license": "LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
