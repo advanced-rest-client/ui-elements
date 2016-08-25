@@ -13,12 +13,12 @@
     "url": "git@github.com:advanced-rest-client/ui-elements.git"
   },
   "dependencies": {
-    "paper-masked-input": "advanced-rest-client/paper-masked-input#master",
-    "arc-icons": "advanced-rest-client/arc-icons#master",
-    "form-action-bar": "advanced-rest-client/form-action-bar#master",
-    "markdown-editor": "advanced-rest-client/markdown-editor#master",
-    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#master",
-    "code-mirror": "advanced-rest-client/code-mirror#latest"
+    "paper-masked-input": "advanced-rest-client/paper-masked-input#^1.0.0",
+    "arc-icons": "advanced-rest-client/arc-icons#^1.0.0",
+    "form-action-bar": "advanced-rest-client/form-action-bar#^1.0.0",
+    "markdown-editor": "advanced-rest-client/markdown-editor#^1.0.0",
+    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#^1.0.0",
+    "code-mirror": "advanced-rest-client/code-mirror#^1.0.0"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
