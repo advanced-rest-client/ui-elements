@@ -17,7 +17,8 @@
     "arc-icons": "advanced-rest-client/arc-icons#master",
     "form-action-bar": "advanced-rest-client/form-action-bar#master",
     "markdown-editor": "advanced-rest-client/markdown-editor#master",
-    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#master"
+    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#master",
+    "code-mirror": "advanced-rest-client/code-mirror#latest"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
