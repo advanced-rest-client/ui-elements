@@ -1,3 +1,13 @@
+<a name="1.0.8"></a>
+## [1.0.8](https://github.com/advanced-rest-client/ui-elements/compare/1.0.7...v1.0.8) (2016-09-11)
+
+
+### Update
+
+* Added prism-highlight element ([afc51c0e9546bc0f333d5813e60ccbd3358e59f3](https://github.com/advanced-rest-client/ui-elements/commit/afc51c0e9546bc0f333d5813e60ccbd3358e59f3))
+
+
+
 <a name="1.0.7"></a>
 ## [1.0.7](https://github.com/advanced-rest-client/ui-elements/compare/1.0.5...v1.0.7) (2016-08-29)
 
