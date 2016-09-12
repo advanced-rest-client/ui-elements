@@ -1,3 +1,17 @@
+<a name="1.0.9"></a>
+## [1.0.9](https://github.com/advanced-rest-client/ui-elements/compare/1.0.7...v1.0.9) (2016-09-12)
+
+
+### New
+
+* Added bottom-sheet element ([64b3fda23bdb9706cedbdb8c077fab25745ecd19](https://github.com/advanced-rest-client/ui-elements/commit/64b3fda23bdb9706cedbdb8c077fab25745ecd19))
+
+### Update
+
+* Added prism-highlight element ([afc51c0e9546bc0f333d5813e60ccbd3358e59f3](https://github.com/advanced-rest-client/ui-elements/commit/afc51c0e9546bc0f333d5813e60ccbd3358e59f3))
+
+
+
 <a name="1.0.8"></a>
 ## [1.0.8](https://github.com/advanced-rest-client/ui-elements/compare/1.0.7...v1.0.8) (2016-09-11)
 
