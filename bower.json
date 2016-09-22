@@ -21,7 +21,8 @@
     "code-mirror": "advanced-rest-client/code-mirror#^1.0.0",
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.2",
     "prism-highlight": "advanced-rest-client/prism-highlight#^1.0.1",
-    "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.1"
+    "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.1",
+    "file-drop": "advanced-rest-client/file-drop#^1.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
