@@ -1,3 +1,13 @@
+<a name="1.0.10"></a>
+## [1.0.10](https://github.com/advanced-rest-client/ui-elements/compare/1.0.9...v1.0.10) (2016-09-22)
+
+
+### New
+
+* added file-drop element ([96489223a340b05bdeb2a98d975e221fda65d5c5](https://github.com/advanced-rest-client/ui-elements/commit/96489223a340b05bdeb2a98d975e221fda65d5c5))
+
+
+
 <a name="1.0.9"></a>
 ## [1.0.9](https://github.com/advanced-rest-client/ui-elements/compare/1.0.7...v1.0.9) (2016-09-12)
 

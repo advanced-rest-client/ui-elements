@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "keywords": [
     "web-components",
