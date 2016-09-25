@@ -1,3 +1,15 @@
+<a name="1.0.11"></a>
+## [1.0.11](https://github.com/advanced-rest-client/ui-elements/compare/1.0.8...v1.0.11) (2016-09-25)
+
+
+### New
+
+* Added bottom-sheet element ([64b3fda23bdb9706cedbdb8c077fab25745ecd19](https://github.com/advanced-rest-client/ui-elements/commit/64b3fda23bdb9706cedbdb8c077fab25745ecd19))
+* added file-drop element ([96489223a340b05bdeb2a98d975e221fda65d5c5](https://github.com/advanced-rest-client/ui-elements/commit/96489223a340b05bdeb2a98d975e221fda65d5c5))
+* Added new elements. Automated release. ([625da74b86d813c0714809e9c5840af25fed32cd](https://github.com/advanced-rest-client/ui-elements/commit/625da74b86d813c0714809e9c5840af25fed32cd))
+
+
+
 <a name="1.0.10"></a>
 ## [1.0.10](https://github.com/advanced-rest-client/ui-elements/compare/1.0.9...v1.0.10) (2016-09-22)
 
