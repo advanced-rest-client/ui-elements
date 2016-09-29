@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "keywords": [
     "web-components",
@@ -22,7 +22,8 @@
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.3",
     "prism-highlight": "advanced-rest-client/prism-highlight#^1.0.2",
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.1",
-    "file-drop": "advanced-rest-client/file-drop#^1.0.2"
+    "file-drop": "advanced-rest-client/file-drop#^1.0.2",
+    "test-element": "advanced-rest-client/test-element#^1.0.7"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
