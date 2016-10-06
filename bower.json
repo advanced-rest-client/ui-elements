@@ -19,7 +19,7 @@
     "markdown-editor": "advanced-rest-client/markdown-editor#^0.0.2",
     "paper-autocomplete": "advanced-rest-client/paper-autocomplete#^1.0.10",
     "code-mirror": "advanced-rest-client/code-mirror#^1.0.18",
-    "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.4",
+    "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.5",
     "prism-highlight": "advanced-rest-client/prism-highlight#^1.0.2",
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
     "file-drop": "advanced-rest-client/file-drop#^1.0.6"
