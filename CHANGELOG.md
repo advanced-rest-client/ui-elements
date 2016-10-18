@@ -1,3 +1,9 @@
+<a name="1.0.31"></a>
+## [1.0.31](https://github.com/advanced-rest-client/ui-elements/compare/1.0.30...v1.0.31) (2016-10-18)
+
+
+
+
 <a name="1.0.30"></a>
 ## [1.0.30](https://github.com/advanced-rest-client/ui-elements/compare/1.0.29...v1.0.30) (2016-10-18)
 
