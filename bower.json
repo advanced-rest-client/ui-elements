@@ -24,7 +24,7 @@
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
     "file-drop": "advanced-rest-client/file-drop#^1.0.6",
     "saved-list-items": "advanced-rest-client/saved-list-items#^1.0.1",
-    "history-list-items": "advanced-rest-client/history-list-items#^1.0.5",
+    "history-list-items": "advanced-rest-client/history-list-items#^1.0.6",
     "test-element": "advanced-rest-client/test-element#^1.0.9",
     "history-panel": "advanced-rest-client/history-panel#^1.0.1"
   },
