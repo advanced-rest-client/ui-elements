@@ -24,7 +24,7 @@
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
     "file-drop": "advanced-rest-client/file-drop#^1.0.6",
     "saved-list-items": "advanced-rest-client/saved-list-items#^1.0.1",
-    "history-list-items": "advanced-rest-client/history-list-items#^1.0.2"
+    "history-list-items": "advanced-rest-client/history-list-items#^1.0.3"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
