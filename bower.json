@@ -22,12 +22,7 @@
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.5",
     "prism-highlight": "advanced-rest-client/prism-highlight#^1.0.2",
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
-    "file-drop": "advanced-rest-client/file-drop#^1.0.7",
-    "saved-list-items": "advanced-rest-client/saved-list-items#^1.0.1",
-    "history-list-items": "advanced-rest-client/history-list-items#^1.0.8",
-    "test-element": "advanced-rest-client/test-element#^1.0.9",
-    "history-panel": "advanced-rest-client/history-panel#^1.0.4",
-    "raml-path-selector": "advanced-rest-client/raml-path-selector#^1.0.1"
+    "file-drop": "advanced-rest-client/file-drop#^1.0.7"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
