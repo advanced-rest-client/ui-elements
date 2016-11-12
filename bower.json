@@ -22,7 +22,8 @@
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.5",
     "prism-highlight": "advanced-rest-client/prism-highlight#^1.0.2",
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
-    "file-drop": "advanced-rest-client/file-drop#^1.0.7"
+    "file-drop": "advanced-rest-client/file-drop#^1.0.7",
+    "markdown-style": "advanced-rest-client/markdown-style#^1.0.0"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
