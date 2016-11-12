@@ -1,3 +1,9 @@
+<a name="1.0.52"></a>
+## [1.0.52](https://github.com/advanced-rest-client/markdown-style/compare/1.0.50...v1.0.52) (2016-11-12)
+
+
+
+
 <a name="1.0.51"></a>
 ## [1.0.51](https://github.com/advanced-rest-client/markdown-style/compare/1.0.50...v1.0.51) (2016-11-12)
 
