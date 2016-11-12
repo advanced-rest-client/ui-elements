@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "license": "LICENSE.md",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "devDependencies": {
