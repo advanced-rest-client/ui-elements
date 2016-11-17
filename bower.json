@@ -24,7 +24,7 @@
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
     "file-drop": "advanced-rest-client/file-drop#^1.0.7",
     "markdown-styles": "advanced-rest-client/markdown-styles#^1.0.0",
-    "variables-editor": "advanced-rest-client/variables-editor#^1.0.1"
+    "variables-editor": "advanced-rest-client/variables-editor#^1.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
