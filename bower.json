@@ -42,9 +42,5 @@
   ],
   "main": [
     "ui-elements.html"
-  ],
-  "resolutions": {
-    "history-list-items": "^1.0.1",
-    "saved-list-items": "^1.0.1"
-  }
+  ]
 }
