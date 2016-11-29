@@ -28,7 +28,8 @@
     "vertical-tabs": "advanced-rest-client/vertical-tabs#^1.0.1",
     "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.3",
     "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.4",
-    "auth-methods": "advanced-rest-client/auth-methods#^1.0.0"
+    "auth-methods": "advanced-rest-client/auth-methods#^1.0.0",
+    "authorization-panel": "advanced-rest-client/authorization-panel#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
