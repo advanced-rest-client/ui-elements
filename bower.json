@@ -27,7 +27,7 @@
     "variables-editor": "advanced-rest-client/variables-editor#^1.0.3",
     "vertical-tabs": "advanced-rest-client/vertical-tabs#^1.0.1",
     "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.3",
-    "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^0.0.2",
+    "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.4",
     "auth-methods": "advanced-rest-client/auth-methods#^0.0.5"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
@@ -46,6 +46,7 @@
     "ui-elements.html"
   ],
   "resolutions": {
-    "auth-methods": "^0.0.5"
+    "auth-methods": "^0.0.5",
+    "oauth2-scope-selector": "^1.0.4"
   }
 }
