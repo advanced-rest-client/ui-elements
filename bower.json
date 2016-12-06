@@ -31,7 +31,8 @@
     "auth-methods": "advanced-rest-client/auth-methods#^1.0.0",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.1.1",
     "http-code-snippets": "advanced-rest-client/http-code-snippets",
-    "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.1"
+    "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.1",
+    "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
