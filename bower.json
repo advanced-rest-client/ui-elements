@@ -33,7 +33,8 @@
     "http-code-snippets": "advanced-rest-client/http-code-snippets",
     "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.2",
     "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1",
-    "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.1.2"
+    "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.1.2",
+    "body-form-editor": "advanced-rest-client/body-form-editor#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
