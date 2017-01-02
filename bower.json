@@ -35,7 +35,8 @@
     "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1",
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.1.2",
     "body-form-editor": "advanced-rest-client/body-form-editor#^0.1.2",
-    "date-time": "advanced-rest-client/date-time#^0.1.2"
+    "date-time": "advanced-rest-client/date-time#^0.1.2",
+    "request-timings": "advanced-rest-client/request-timings#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
