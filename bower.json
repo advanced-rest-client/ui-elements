@@ -39,7 +39,8 @@
     "request-timings": "advanced-rest-client/request-timings#^0.1.2",
     "headers-list-view": "advanced-rest-client/headers-list-view#^0.1.2",
     "response-status-view": "advanced-rest-client/response-status-view#^0.1.1",
-    "response-body-view": "advanced-rest-client/response-body-view#^0.0.2"
+    "response-body-view": "advanced-rest-client/response-body-view#^0.0.2",
+    "response-view": "advanced-rest-client/response-view#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
