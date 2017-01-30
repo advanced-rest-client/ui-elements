@@ -29,7 +29,7 @@
     "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.10",
     "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.5",
     "auth-methods": "advanced-rest-client/auth-methods#^1.0.5",
-    "authorization-panel": "advanced-rest-client/authorization-panel#^0.1.1",
+    "authorization-panel": "advanced-rest-client/authorization-panel#^0.1.3",
     "http-code-snippets": "advanced-rest-client/http-code-snippets",
     "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.3",
     "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1",
