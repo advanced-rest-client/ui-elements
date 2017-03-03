@@ -17,7 +17,7 @@
     "arc-icons": "advanced-rest-client/arc-icons#^1.0.14",
     "form-action-bar": "advanced-rest-client/form-action-bar#^1.0.4",
     "markdown-editor": "advanced-rest-client/markdown-editor#^0.0.2",
-    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#1.0.15",
+    "paper-autocomplete": "advanced-rest-client/paper-autocomplete#^1.0.16",
     "code-mirror": "advanced-rest-client/code-mirror#^1.0.18",
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.6",
     "prism-highlight": "advanced-rest-client/prism-highlight#^2.0.1",
@@ -42,8 +42,7 @@
     "response-body-view": "advanced-rest-client/response-body-view#^0.0.2",
     "response-view": "advanced-rest-client/response-view#^0.1.3",
     "response-error-view": "advanced-rest-client/response-error-view#^0.1.2",
-    "json-viewer": "advanced-rest-client/json-viewer#^0.1.3",
-    "paper-input-autocomplete": "advanced-rest-client/paper-autocomplete#^1.2.3"
+    "json-viewer": "advanced-rest-client/json-viewer#^0.1.3"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
