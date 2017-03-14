@@ -31,7 +31,7 @@
     "auth-methods": "advanced-rest-client/auth-methods#^2.0.3",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.5.3",
     "http-code-snippets": "advanced-rest-client/http-code-snippets#^0.1.0",
-    "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.4",
+    "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.6",
     "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1",
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.1.2",
     "body-form-editor": "advanced-rest-client/body-form-editor#^0.1.2",
