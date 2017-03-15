@@ -45,7 +45,8 @@
     "json-viewer": "advanced-rest-client/json-viewer#^0.1.4",
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.2",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.2",
-    "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.2"
+    "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.2",
+    "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
