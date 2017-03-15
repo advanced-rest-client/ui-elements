@@ -46,7 +46,7 @@
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.2",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.2",
     "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.2",
-    "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.0.2"
+    "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.0.3"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
@@ -64,6 +64,7 @@
     "ui-elements.html"
   ],
   "resolutions": {
-    "response-body-view": "^0.1.1"
+    "response-body-view": "^0.1.1",
+    "raml-docs-types-viewer": "^0.0.3"
   }
 }
