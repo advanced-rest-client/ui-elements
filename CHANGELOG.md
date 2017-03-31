@@ -1,3 +1,17 @@
+<a name="1.0.141"></a>
+## [1.0.141](https://github.com/advanced-rest-client/ui-elements/compare/1.0.139...v1.0.141) (2017-03-31)
+
+
+### New
+
+* [CI] Added new elements. ([4605b234e8bbfcab05400e59218d74665da897b4](https://github.com/advanced-rest-client/ui-elements/commit/4605b234e8bbfcab05400e59218d74665da897b4))
+
+### Update
+
+* Removed RAML elements from the UI elements ([c0859cf7b85dfe9967712299cf7bb48c73a43efc](https://github.com/advanced-rest-client/ui-elements/commit/c0859cf7b85dfe9967712299cf7bb48c73a43efc))
+
+
+
 <a name="1.0.140"></a>
 ## [1.0.140](https://github.com/advanced-rest-client/ui-elements/compare/1.0.139...v1.0.140) (2017-03-31)
 
