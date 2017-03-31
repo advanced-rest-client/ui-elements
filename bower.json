@@ -26,7 +26,7 @@
     "markdown-styles": "advanced-rest-client/markdown-styles#^1.0.2",
     "variables-editor": "advanced-rest-client/variables-editor#^1.0.3",
     "vertical-tabs": "advanced-rest-client/vertical-tabs#^1.0.1",
-    "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.11",
+    "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.12",
     "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.5",
     "auth-methods": "advanced-rest-client/auth-methods#^2.0.14",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.5.9",
@@ -65,6 +65,7 @@
   ],
   "resolutions": {
     "response-body-view": "^0.1.1",
-    "raml-docs-types-viewer": "^0.0.3"
+    "raml-docs-types-viewer": "^0.0.3",
+    "raml-js-parser": "^2.0.0"
   }
 }
