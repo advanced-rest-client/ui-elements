@@ -46,7 +46,8 @@
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.2",
     "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.2",
     "anypoint-styles": "advanced-rest-client/anypoint-styles#^0.1.2",
-    "api-designer-nav": "advanced-rest-client/api-designer-nav#^0.1.1"
+    "api-designer-nav": "advanced-rest-client/api-designer-nav#^0.1.1",
+    "json-table": "advanced-rest-client/json-table#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
