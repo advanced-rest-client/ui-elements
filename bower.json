@@ -44,7 +44,7 @@
     "json-viewer": "advanced-rest-client/json-viewer#^0.1.7",
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.2",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.2",
-    "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.2",
+    "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.4",
     "anypoint-styles": "advanced-rest-client/anypoint-styles#^0.1.2",
     "api-designer-nav": "advanced-rest-client/api-designer-nav#^0.1.1",
     "json-table": "advanced-rest-client/json-table#^0.1.12",
