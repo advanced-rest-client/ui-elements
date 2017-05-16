@@ -28,7 +28,7 @@
     "vertical-tabs": "advanced-rest-client/vertical-tabs#^1.0.1",
     "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.12",
     "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.5",
-    "auth-methods": "advanced-rest-client/auth-methods#^2.0.29",
+    "auth-methods": "advanced-rest-client/auth-methods#^2.0.30",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.5.12",
     "http-code-snippets": "advanced-rest-client/http-code-snippets#^0.1.0",
     "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.7",
