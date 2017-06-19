@@ -45,10 +45,7 @@
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.2",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.2",
     "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.5",
-    "anypoint-styles": "advanced-rest-client/anypoint-styles#^0.1.2",
-    "api-designer-nav": "advanced-rest-client/api-designer-nav#^0.1.1",
     "json-table": "advanced-rest-client/json-table#^0.1.12",
-    "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.1",
     "content-type-selector": "advanced-rest-client/content-type-selector#^0.1.1",
     "headers-support": "advanced-rest-client/headers-support#^0.1.1",
     "headers-form-editor": "advanced-rest-client/headers-form-editor#^0.1.1",
@@ -74,11 +71,5 @@
   ],
   "main": [
     "ui-elements.html"
-  ],
-  "resolutions": {
-    "response-body-view": "^0.1.1",
-    "raml-docs-types-viewer": "^0.0.3",
-    "raml-js-parser": "^2.0.0",
-    "auth-methods": "^2.0.30"
-  }
+  ]
 }
