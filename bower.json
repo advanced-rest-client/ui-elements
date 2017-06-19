@@ -54,7 +54,8 @@
     "headers-form-editor": "advanced-rest-client/headers-form-editor#^0.1.1",
     "headers-editor": "advanced-rest-client/headers-editor#^0.1.2",
     "http-method-selector": "advanced-rest-client/http-method-selector#^0.1.1",
-    "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6"
+    "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6",
+    "form-data-editor": "advanced-rest-client/form-data-editor#^0.1.5"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
