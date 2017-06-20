@@ -57,7 +57,8 @@
     "multipart-payload-editor": "advanced-rest-client/multipart-payload-editor#^0.1.1",
     "files-payload-editor": "advanced-rest-client/files-payload-editor",
     "payload-editor": "advanced-rest-client/payload-editor#^0.1.3",
-    "arc-loader-screen": "advanced-rest-client/arc-loader-screen#^0.1.1"
+    "arc-loader-screen": "advanced-rest-client/arc-loader-screen#^0.1.1",
+    "headers-editor-status": "advanced-rest-client/headers-editor-status#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
