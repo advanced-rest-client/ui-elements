@@ -60,7 +60,8 @@
     "headers-editor-status": "advanced-rest-client/headers-editor-status#^0.1.1",
     "auth-dialogs": "advanced-rest-client/auth-dialogs#^0.1.3",
     "variables-editor": "advanced-rest-client/variables-editor#^0.1.1",
-    "cookie-exchange-banner": "advanced-rest-client/cookie-exchange-banner#^0.0.2"
+    "cookie-exchange-banner": "advanced-rest-client/cookie-exchange-banner#^0.0.2",
+    "install-proxy-dialog": "advanced-rest-client/install-proxy-dialog#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
