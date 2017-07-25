@@ -30,7 +30,7 @@
     "auth-methods": "advanced-rest-client/auth-methods#^2.0.36",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.5.13",
     "http-code-snippets": "advanced-rest-client/http-code-snippets#^0.1.0",
-    "body-json-editor": "advanced-rest-client/body-json-editor#^0.1.7",
+    "body-json-editor": "advanced-rest-client/body-json-editor#^0.2.1",
     "body-editor-panel": "advanced-rest-client/body-editor-panel#^0.1.1",
     "body-form-editor": "advanced-rest-client/body-form-editor#^0.1.3",
     "date-time": "advanced-rest-client/date-time#^0.1.2",
@@ -81,6 +81,7 @@
   ],
   "resolutions": {
     "variables-editor": "^1.0.3",
-    "cookie-exchange-banner": "^0.0.4"
+    "cookie-exchange-banner": "^0.0.4",
+    "body-json-editor": "^0.2.1"
   }
 }
