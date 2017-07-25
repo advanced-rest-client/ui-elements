@@ -1,3 +1,13 @@
+<a name="1.0.265"></a>
+## [1.0.265](https://github.com/advanced-rest-client/ui-elements/compare/1.0.264...v1.0.265) (2017-07-25)
+
+
+### New
+
+* [CI] Added new elements. ([ada5bb0d975c842a5e55a28d55cd885704013b65](https://github.com/advanced-rest-client/ui-elements/commit/ada5bb0d975c842a5e55a28d55cd885704013b65))
+
+
+
 <a name="1.0.264"></a>
 ## [1.0.264](https://github.com/advanced-rest-client/ui-elements/compare/1.0.263...v1.0.264) (2017-07-19)
 
