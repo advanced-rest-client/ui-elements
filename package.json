@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.270",
+  "version": "1.0.271",
   "license": "Apache-2.0 OR CC-BY-4.0",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "devDependencies": {
