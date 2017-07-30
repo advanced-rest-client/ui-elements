@@ -63,7 +63,7 @@
     "cookie-exchange-banner": "advanced-rest-client/cookie-exchange-banner#^0.0.4",
     "install-proxy-dialog": "advanced-rest-client/install-proxy-dialog#^0.1.1",
     "url-input-editor": "advanced-rest-client/url-input-editor#^0.1.7",
-    "raml-type-form-input": "advanced-rest-client/raml-type-form-input#^0.1.8"
+    "raml-type-form-input": "advanced-rest-client/raml-type-form-input#^0.1.9"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
