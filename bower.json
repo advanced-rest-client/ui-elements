@@ -51,7 +51,7 @@
     "headers-editor": "advanced-rest-client/headers-editor#^0.1.8",
     "http-method-selector": "advanced-rest-client/http-method-selector#^0.1.3",
     "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6",
-    "form-data-editor": "advanced-rest-client/form-data-editor#^0.1.5",
+    "form-data-editor": "advanced-rest-client/form-data-editor#^0.2.1",
     "raw-payload-editor": "advanced-rest-client/raw-payload-editor#^0.1.3",
     "multipart-payload-editor": "advanced-rest-client/multipart-payload-editor#^0.1.3",
     "files-payload-editor": "advanced-rest-client/files-payload-editor#^0.1.4",
@@ -85,6 +85,8 @@
     "cookie-exchange-banner": "^0.0.4",
     "body-json-editor": "^0.2.3",
     "payload-editor": "^0.2.1",
-    "raml-json-enhance": "^0.2.2"
+    "raml-json-enhance": "^0.2.2",
+    "payload-parser-behavior": "^0.2.0",
+    "form-data-editor": "^0.2.1"
   }
 }
