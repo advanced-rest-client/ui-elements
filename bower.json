@@ -18,7 +18,7 @@
     "form-action-bar": "advanced-rest-client/form-action-bar#^1.0.4",
     "markdown-editor": "advanced-rest-client/markdown-editor#^0.0.2",
     "paper-autocomplete": "advanced-rest-client/paper-autocomplete#^1.0.16",
-    "code-mirror": "advanced-rest-client/code-mirror#^1.1.11",
+    "code-mirror": "advanced-rest-client/code-mirror#^1.1.12",
     "paper-fab-menu": "advanced-rest-client/paper-fab-menu#^2.0.6",
     "prism-highlight": "advanced-rest-client/prism-highlight#^2.0.4",
     "bottom-sheet": "advanced-rest-client/bottom-sheet#^1.0.3",
