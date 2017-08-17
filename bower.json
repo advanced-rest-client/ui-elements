@@ -64,7 +64,7 @@
     "url-input-editor": "advanced-rest-client/url-input-editor#^0.1.7",
     "raml-type-form-input": "advanced-rest-client/raml-type-form-input#^0.1.9",
     "request-editor": "advanced-rest-client/request-editor#^0.1.4",
-    "environment-selector": "advanced-rest-client/environment-selector#^0.0.2"
+    "environment-selector": "advanced-rest-client/environment-selector#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
@@ -89,6 +89,7 @@
     "raml-json-enhance": "^0.2.2",
     "payload-parser-behavior": "^0.2.0",
     "form-data-editor": "^0.2.2",
-    "multipart-payload-editor": "^0.2.2"
+    "multipart-payload-editor": "^0.2.2",
+    "environment-selector": "^0.1.1"
   }
 }
