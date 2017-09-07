@@ -69,7 +69,7 @@
     "request-panel": "advanced-rest-client/request-panel#^0.1.5",
     "paper-combobox": "advanced-rest-client/paper-combobox#^0.1.1",
     "request-save-dialog": "advanced-rest-client/request-save-dialog#^0.1.1",
-    "dom-reorderer": "advanced-rest-client/dom-reorderer#^0.1.1"
+    "dom-reorderer": "advanced-rest-client/dom-reorderer#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
