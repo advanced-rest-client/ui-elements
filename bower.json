@@ -81,7 +81,8 @@
     "websocket-data-view": "advanced-rest-client/websocket-data-view#^0.1.1",
     "websocket-request": "advanced-rest-client/websocket-request#^0.1.1",
     "websocket-panel": "advanced-rest-client/websocket-panel#^0.1.1",
-    "arc-data-settings-panel": "advanced-rest-client/arc-data-settings-panel#^0.1.1"
+    "arc-data-settings-panel": "advanced-rest-client/arc-data-settings-panel#^0.1.1",
+    "arc-request-settings-panel": "advanced-rest-client/arc-request-settings-panel#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
