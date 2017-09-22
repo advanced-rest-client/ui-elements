@@ -86,7 +86,8 @@
     "arc-privacy-settings-panel": "advanced-rest-client/arc-privacy-settings-panel#^0.1.1",
     "arc-settings-panel": "advanced-rest-client/arc-settings-panel#^0.1.1",
     "tutorial-toast": "advanced-rest-client/tutorial-toast#^0.1.1",
-    "saved-list-items": "advanced-rest-client/saved-list-items#^1.1.7"
+    "saved-list-items": "advanced-rest-client/saved-list-items#^1.1.7",
+    "saved-request-detail": "advanced-rest-client/saved-request-detail#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
