@@ -25,7 +25,7 @@
     "file-drop": "advanced-rest-client/file-drop#^1.0.10",
     "markdown-styles": "advanced-rest-client/markdown-styles#^1.0.2",
     "vertical-tabs": "advanced-rest-client/vertical-tabs#^1.0.1",
-    "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.23",
+    "arc-demo-helpers": "advanced-rest-client/arc-demo-helpers#^1.0.24",
     "oauth2-scope-selector": "advanced-rest-client/oauth2-scope-selector#^1.0.5",
     "auth-methods": "advanced-rest-client/auth-methods#^2.0.36",
     "authorization-panel": "advanced-rest-client/authorization-panel#^0.5.13",
