@@ -88,7 +88,7 @@
     "tutorial-toast": "advanced-rest-client/tutorial-toast#^0.1.1",
     "saved-list-items": "advanced-rest-client/saved-list-items#^1.1.7",
     "saved-request-detail": "advanced-rest-client/saved-request-detail#^0.1.1",
-    "saved-request-editor": "advanced-rest-client/saved-request-editor#^0.1.1",
+    "saved-request-editor": "advanced-rest-client/saved-request-editor#^0.1.2",
     "saved-requests-panel": "advanced-rest-client/saved-requests-panel#^0.1.1",
     "google-drive-browser": "advanced-rest-client/google-drive-browser#^0.1.7",
     "import-panel": "advanced-rest-client/import-panel#^0.1.1",
