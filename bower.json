@@ -91,7 +91,8 @@
     "saved-request-editor": "advanced-rest-client/saved-request-editor#^0.1.1",
     "saved-requests-panel": "advanced-rest-client/saved-requests-panel#^0.1.1",
     "google-drive-browser": "advanced-rest-client/google-drive-browser#^0.1.7",
-    "import-panel": "advanced-rest-client/import-panel#^0.1.1"
+    "import-panel": "advanced-rest-client/import-panel#^0.1.1",
+    "export-panel": "advanced-rest-client/export-panel#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
