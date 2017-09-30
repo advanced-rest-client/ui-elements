@@ -61,7 +61,7 @@
     "variables-editor": "advanced-rest-client/variables-editor#^0.1.7",
     "cookie-exchange-banner": "advanced-rest-client/cookie-exchange-banner#^0.0.4",
     "install-proxy-dialog": "advanced-rest-client/install-proxy-dialog#^0.1.1",
-    "url-input-editor": "advanced-rest-client/url-input-editor#^0.1.7",
+    "url-input-editor": "advanced-rest-client/url-input-editor#^0.2.1",
     "raml-type-form-input": "advanced-rest-client/raml-type-form-input#^0.1.9",
     "request-editor": "advanced-rest-client/request-editor#^0.1.4",
     "environment-selector": "advanced-rest-client/environment-selector#^0.1.4",
@@ -124,6 +124,7 @@
     "form-data-editor": "^0.2.2",
     "multipart-payload-editor": "^0.2.2",
     "environment-selector": "^0.1.1",
-    "saved-list-items": "^1.1.7"
+    "saved-list-items": "^1.1.7",
+    "url-input-editor": "^0.2.1"
   }
 }
