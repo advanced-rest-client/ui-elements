@@ -98,7 +98,8 @@
     "history-panel": "advanced-rest-client/history-panel#^1.0.4",
     "search-bar": "advanced-rest-client/search-bar#^0.1.3",
     "drop-file-importer": "advanced-rest-client/drop-file-importer#^0.1.1",
-    "arc-license-dialog": "advanced-rest-client/arc-license-dialog#^0.1.1"
+    "arc-license-dialog": "advanced-rest-client/arc-license-dialog#^0.1.1",
+    "arc-onboarding": "advanced-rest-client/arc-onboarding#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
