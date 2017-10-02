@@ -43,7 +43,7 @@
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.5",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.4",
     "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.5",
-    "json-table": "advanced-rest-client/json-table#^0.1.12",
+    "json-table": "advanced-rest-client/json-table#^0.1.14",
     "content-type-selector": "advanced-rest-client/content-type-selector#^0.1.5",
     "headers-support": "advanced-rest-client/headers-support#^0.1.1",
     "headers-form-editor": "advanced-rest-client/headers-form-editor#^0.1.11",
