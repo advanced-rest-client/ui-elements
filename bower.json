@@ -81,7 +81,7 @@
     "websocket-data-view": "advanced-rest-client/websocket-data-view#^0.1.1",
     "websocket-request": "advanced-rest-client/websocket-request#^0.1.1",
     "websocket-panel": "advanced-rest-client/websocket-panel#^0.1.1",
-    "arc-data-settings-panel": "advanced-rest-client/arc-data-settings-panel#^0.1.1",
+    "arc-data-settings-panel": "advanced-rest-client/arc-data-settings-panel#^0.1.2",
     "arc-request-settings-panel": "advanced-rest-client/arc-request-settings-panel#^0.1.3",
     "arc-privacy-settings-panel": "advanced-rest-client/arc-privacy-settings-panel#^0.1.1",
     "arc-settings-panel": "advanced-rest-client/arc-settings-panel#^0.1.1",
