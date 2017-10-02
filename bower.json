@@ -66,7 +66,7 @@
     "request-editor": "advanced-rest-client/request-editor#^0.2.5",
     "environment-selector": "advanced-rest-client/environment-selector#^0.1.5",
     "arc-status-bar": "advanced-rest-client/arc-status-bar#^0.1.1",
-    "request-panel": "advanced-rest-client/request-panel#^0.1.13",
+    "request-panel": "advanced-rest-client/request-panel#^0.1.14",
     "paper-combobox": "advanced-rest-client/paper-combobox#^0.1.1",
     "request-save-dialog": "advanced-rest-client/request-save-dialog#^0.1.1",
     "dom-reorderer": "advanced-rest-client/dom-reorderer#^0.1.3",
