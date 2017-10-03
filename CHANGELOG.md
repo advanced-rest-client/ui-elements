@@ -1,5 +1,5 @@
-<a name="1.0.473"></a>
-## [1.0.473](https://github.com/advanced-rest-client/ui-elements/compare/1.0.472...1.0.473) (2017-10-03)
+<a name="1.0.474"></a>
+## [1.0.474](https://github.com/advanced-rest-client/ui-elements/compare/1.0.472...1.0.474) (2017-10-03)
 
 
 ### New
