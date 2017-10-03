@@ -1,6 +1,6 @@
 {
   "name": "ui-elements",
-  "version": "1.0.463",
+  "version": "1.0.462",
   "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "keywords": [
     "web-components",
@@ -35,7 +35,7 @@
     "date-time": "advanced-rest-client/date-time#^0.1.2",
     "request-timings": "advanced-rest-client/request-timings#^0.1.2",
     "headers-list-view": "advanced-rest-client/headers-list-view#^0.1.4",
-    "response-status-view": "advanced-rest-client/response-status-view#^0.1.17",
+    "response-status-view": "advanced-rest-client/response-status-view#^0.1.18",
     "response-body-view": "advanced-rest-client/response-body-view#^0.1.21",
     "response-view": "advanced-rest-client/response-view#^0.1.11",
     "response-error-view": "advanced-rest-client/response-error-view#^0.1.2",
