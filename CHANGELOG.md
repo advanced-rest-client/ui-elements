@@ -1,3 +1,13 @@
+<a name="1.0.477"></a>
+## [1.0.477](https://github.com/advanced-rest-client/ui-elements/compare/1.0.476...1.0.477) (2017-10-03)
+
+
+### New
+
+* [CI] Added new elements. ([9203dda2826f701a050376be1e229ab1ca5f21ab](https://github.com/advanced-rest-client/ui-elements/commit/9203dda2826f701a050376be1e229ab1ca5f21ab))
+
+
+
 <a name="1.0.476"></a>
 ## [1.0.476](https://github.com/advanced-rest-client/ui-elements/compare/1.0.475...1.0.476) (2017-10-03)
 
@@ -3821,8 +3831,4 @@
 
 ### New
 
-* [CI] Added new elements. ([ff16434288ece88492e107f3e64727a50e8b4869](https://github.com/advanced-rest-client/ui-elements/commit/ff16434288ece88492e107f3e64727a50e8b4869))
-
-### Update
-
-* removed reference to paper-input-autocomplete ([94e6286d2bbd582f2366090f68c9c0f0b7b847fa](https://github.com/advanced-rest-client/ui-elements/commit/94e6286d2bbd582f2366090f68c9c0f0
+* [CI] Added new elements. ([ff16434288ece88492e107f3e
