@@ -1,3 +1,13 @@
+<a name="1.0.462"></a>
+## [1.0.462](https://github.com/advanced-rest-client/ui-elements/compare/1.0.461...1.0.462) (2017-10-03)
+
+
+### New
+
+* [CI] Added new elements. ([9515560ec394b1c85c517f5fd1b6e4d213e39958](https://github.com/advanced-rest-client/ui-elements/commit/9515560ec394b1c85c517f5fd1b6e4d213e39958))
+
+
+
 <a name="1.0.461"></a>
 ## [1.0.461](https://github.com/advanced-rest-client/ui-elements/compare/1.0.460...1.0.461) (2017-10-03)
 
