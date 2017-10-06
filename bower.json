@@ -37,7 +37,7 @@
     "headers-list-view": "advanced-rest-client/headers-list-view#^0.1.4",
     "response-status-view": "advanced-rest-client/response-status-view#^0.1.18",
     "response-body-view": "advanced-rest-client/response-body-view#^0.1.21",
-    "response-view": "advanced-rest-client/response-view#^0.1.11",
+    "response-view": "advanced-rest-client/response-view#^0.1.12",
     "response-error-view": "advanced-rest-client/response-error-view#^0.1.2",
     "json-viewer": "advanced-rest-client/json-viewer#^0.1.7",
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.5",
