@@ -83,7 +83,7 @@
     "websocket-panel": "advanced-rest-client/websocket-panel#^0.1.1",
     "arc-data-settings-panel": "advanced-rest-client/arc-data-settings-panel#^0.1.5",
     "arc-request-settings-panel": "advanced-rest-client/arc-request-settings-panel#^0.1.3",
-    "arc-privacy-settings-panel": "advanced-rest-client/arc-privacy-settings-panel#^0.1.1",
+    "arc-privacy-settings-panel": "advanced-rest-client/arc-privacy-settings-panel#^0.2.1",
     "arc-settings-panel": "advanced-rest-client/arc-settings-panel#^0.1.5",
     "tutorial-toast": "advanced-rest-client/tutorial-toast#^0.1.1",
     "saved-list-items": "advanced-rest-client/saved-list-items#^1.1.7",
@@ -130,6 +130,7 @@
     "saved-list-items": "^1.1.7",
     "url-input-editor": "^0.2.1",
     "request-editor": "^0.2.1",
-    "arc-menu": "^0.2.1"
+    "arc-menu": "^0.2.1",
+    "arc-privacy-settings-panel": "^0.2.1"
   }
 }
