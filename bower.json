@@ -51,7 +51,7 @@
     "http-method-selector": "advanced-rest-client/http-method-selector#^0.1.4",
     "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6",
     "form-data-editor": "advanced-rest-client/form-data-editor#^0.2.2",
-    "raw-payload-editor": "advanced-rest-client/raw-payload-editor#^0.1.5",
+    "raw-payload-editor": "advanced-rest-client/raw-payload-editor#^0.1.6",
     "multipart-payload-editor": "advanced-rest-client/multipart-payload-editor#^0.2.2",
     "files-payload-editor": "advanced-rest-client/files-payload-editor#^0.1.4",
     "payload-editor": "advanced-rest-client/payload-editor#^0.2.7",
