@@ -105,7 +105,8 @@
     "web-url-input": "advanced-rest-client/web-url-input#^0.1.1",
     "cookies-list-items": "advanced-rest-client/cookies-list-items#^0.1.1",
     "cookie-editor": "advanced-rest-client/cookie-editor#^0.1.1",
-    "cookie-details": "advanced-rest-client/cookie-details#^0.1.3"
+    "cookie-details": "advanced-rest-client/cookie-details#^0.1.3",
+    "cookie-manager": "advanced-rest-client/cookie-manager#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
