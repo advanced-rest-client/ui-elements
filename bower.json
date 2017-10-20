@@ -103,7 +103,8 @@
     "app-log-viewer": "advanced-rest-client/app-log-viewer#^0.1.1",
     "arc-info-messages": "advanced-rest-client/arc-info-messages#^0.1.1",
     "web-url-input": "advanced-rest-client/web-url-input#^0.1.1",
-    "cookies-list-items": "advanced-rest-client/cookies-list-items#^0.1.1"
+    "cookies-list-items": "advanced-rest-client/cookies-list-items#^0.1.1",
+    "cookie-editor": "advanced-rest-client/cookie-editor#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
