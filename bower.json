@@ -107,7 +107,7 @@
     "cookie-editor": "advanced-rest-client/cookie-editor#^0.1.3",
     "cookie-details": "advanced-rest-client/cookie-details#^0.1.3",
     "cookie-manager": "advanced-rest-client/cookie-manager#^0.1.1",
-    "arc-project-selector": "advanced-rest-client/arc-project-selector#^0.1.4"
+    "arc-project-selector": "advanced-rest-client/arc-project-selector#^0.1.5"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
