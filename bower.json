@@ -109,7 +109,8 @@
     "cookie-manager": "advanced-rest-client/cookie-manager#^0.1.1",
     "arc-project-selector": "advanced-rest-client/arc-project-selector#^0.1.5",
     "rest-api-menu": "advanced-rest-client/rest-api-menu#^0.1.11",
-    "rest-apis-list-panel": "advanced-rest-client/rest-apis-list-panel#^0.1.3"
+    "rest-apis-list-panel": "advanced-rest-client/rest-apis-list-panel#^0.1.3",
+    "polymer-styles-editor": "advanced-rest-client/polymer-styles-editor#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
