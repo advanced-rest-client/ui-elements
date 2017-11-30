@@ -46,7 +46,7 @@
     "json-table": "advanced-rest-client/json-table#^0.1.14",
     "content-type-selector": "advanced-rest-client/content-type-selector#^0.1.5",
     "headers-support": "advanced-rest-client/headers-support#^0.2.1",
-    "headers-form-editor": "advanced-rest-client/headers-form-editor#^0.1.12",
+    "headers-form-editor": "advanced-rest-client/headers-form-editor#^0.1.13",
     "headers-editor": "advanced-rest-client/headers-editor#^0.1.11",
     "http-method-selector": "advanced-rest-client/http-method-selector#^0.1.4",
     "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6",
