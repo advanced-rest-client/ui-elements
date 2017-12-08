@@ -56,7 +56,7 @@
     "files-payload-editor": "advanced-rest-client/files-payload-editor#^0.1.4",
     "payload-editor": "advanced-rest-client/payload-editor#^0.2.7",
     "arc-loader-screen": "advanced-rest-client/arc-loader-screen#^0.1.1",
-    "headers-editor-status": "advanced-rest-client/headers-editor-status#^0.1.1",
+    "headers-editor-status": "advanced-rest-client/headers-editor-status#^0.1.2",
     "auth-dialogs": "advanced-rest-client/auth-dialogs#^0.1.3",
     "variables-editor": "advanced-rest-client/variables-editor#^0.1.10",
     "cookie-exchange-banner": "advanced-rest-client/cookie-exchange-banner#^0.1.1",
