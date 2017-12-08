@@ -1,3 +1,13 @@
+<a name="1.0.632"></a>
+## [1.0.632](https://github.com/advanced-rest-client/ui-elements/compare/1.0.631...1.0.632) (2017-12-08)
+
+
+### New
+
+* [CI] Added new elements. ([8b204dc679fd643a7f2d03de43b36c6a0db10a70](https://github.com/advanced-rest-client/ui-elements/commit/8b204dc679fd643a7f2d03de43b36c6a0db10a70))
+
+
+
 <a name="1.0.631"></a>
 ## [1.0.631](https://github.com/advanced-rest-client/ui-elements/compare/1.0.630...1.0.631) (2017-12-08)
 
@@ -4064,9 +4074,4 @@
 * [CI] Added new elements. ([0cc19695dc44cd4b912d9b37ced15de3e25900f6](https://github.com/advanced-rest-client/ui-elements/commit/0cc19695dc44cd4b912d9b37ced15de3e25900f6))
 * [CI] Added new elements. ([9d38c49a7a041235a9a75c662d4a34b002b7e7ae](https://github.com/advanced-rest-client/ui-elements/commit/9d38c49a7a041235a9a75c662d4a34b002b7e7ae))
 * [CI] Added new elements. ([86f296e3d38808fe99718006eb10051764c010ca](https://github.com/advanced-rest-client/ui-elements/commit/86f296e3d38808fe99718006eb10051764c010ca))
-* [CI] Added new elements. ([c8dd174e2a9cbbc01fd003fc1213057c359109c8](https://github.com/advanced-rest-client/ui-elements/commit/c8dd174e2a9cbbc01fd003fc1213057c359109c8))
-* [CI] Added new elements. ([79897dd433914599c666bc23e8c454ebfcba6018](https://github.com/advanced-rest-client/ui-elements/commit/79897dd433914599c666bc23e8c454ebfcba6018))
-
-### Update
-
-* Removed variables editor from the set because it will have fresh start ([f99f8bb6b5469a8dbbd734cb2f61cd8
+* [CI] Added new elements. ([c8dd174e2a9cbbc01fd003fc1213057c359109c8](https://github.com/advanced-rest-client/ui-elements/commit/c8dd174e2a9cbbc01fd0
