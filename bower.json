@@ -65,7 +65,7 @@
     "raml-type-form-input": "advanced-rest-client/raml-type-form-input#^0.1.9",
     "request-editor": "advanced-rest-client/request-editor#^0.2.7",
     "environment-selector": "advanced-rest-client/environment-selector#^0.1.5",
-    "arc-status-bar": "advanced-rest-client/arc-status-bar#^0.2.3",
+    "arc-status-bar": "advanced-rest-client/arc-status-bar#^0.2.4",
     "request-panel": "advanced-rest-client/request-panel#^0.2.6",
     "paper-combobox": "advanced-rest-client/paper-combobox#^0.1.1",
     "request-save-dialog": "advanced-rest-client/request-save-dialog#^0.1.1",
