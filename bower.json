@@ -112,7 +112,7 @@
     "rest-apis-list-panel": "advanced-rest-client/rest-apis-list-panel#^0.1.3",
     "polymer-styles-editor": "advanced-rest-client/polymer-styles-editor#^0.1.1",
     "variables-drawer-editor": "advanced-rest-client/variables-drawer-editor#^0.1.1",
-    "variables-preview-overlay": "advanced-rest-client/variables-preview-overlay#^0.1.2"
+    "variables-preview-overlay": "advanced-rest-client/variables-preview-overlay#^0.1.3"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
   "authors": [
