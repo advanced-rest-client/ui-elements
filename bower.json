@@ -76,7 +76,7 @@
     "history-menu": "advanced-rest-client/history-menu#^0.1.4",
     "saved-menu": "advanced-rest-client/saved-menu#^0.1.8",
     "projects-menu": "advanced-rest-client/projects-menu#^0.1.14",
-    "arc-menu": "advanced-rest-client/arc-menu#^0.5.3",
+    "arc-menu": "advanced-rest-client/arc-menu#^0.5.4",
     "websocket-history": "advanced-rest-client/websocket-history#^0.1.2",
     "websocket-data-view": "advanced-rest-client/websocket-data-view#^0.1.1",
     "websocket-request": "advanced-rest-client/websocket-request#^0.1.1",
