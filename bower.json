@@ -72,7 +72,7 @@
     "dom-reorderer": "advanced-rest-client/dom-reorderer#^0.1.3",
     "http-method-label": "advanced-rest-client/http-method-label#^0.1.1",
     "project-requests-list": "advanced-rest-client/project-requests-list#^0.1.2",
-    "project-details": "advanced-rest-client/project-details#^0.1.8",
+    "project-details": "advanced-rest-client/project-details#^0.1.9",
     "history-menu": "advanced-rest-client/history-menu#^0.1.8",
     "saved-menu": "advanced-rest-client/saved-menu#^0.1.12",
     "projects-menu": "advanced-rest-client/projects-menu#^0.1.18",
