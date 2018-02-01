@@ -90,7 +90,7 @@
     "saved-request-detail": "advanced-rest-client/saved-request-detail#^0.1.3",
     "saved-request-editor": "advanced-rest-client/saved-request-editor#^0.1.9",
     "saved-requests-panel": "advanced-rest-client/saved-requests-panel#^0.2.10",
-    "google-drive-browser": "advanced-rest-client/google-drive-browser#^0.1.11",
+    "google-drive-browser": "advanced-rest-client/google-drive-browser#^0.1.12",
     "import-panel": "advanced-rest-client/import-panel#^0.1.2",
     "export-panel": "advanced-rest-client/export-panel#^0.1.1",
     "data-import-export-panel": "advanced-rest-client/data-import-export-panel#^0.1.5",
