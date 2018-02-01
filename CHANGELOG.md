@@ -1,3 +1,13 @@
+<a name="1.0.725"></a>
+## [1.0.725](https://github.com/advanced-rest-client/ui-elements/compare/1.0.724...1.0.725) (2018-02-01)
+
+
+### New
+
+* [CI] Added new elements. ([21b6f6aeeae7e8faad8b626e6efad14466b0b68f](https://github.com/advanced-rest-client/ui-elements/commit/21b6f6aeeae7e8faad8b626e6efad14466b0b68f))
+
+
+
 <a name="1.0.724"></a>
 ## [1.0.724](https://github.com/advanced-rest-client/ui-elements/compare/1.0.723...1.0.724) (2018-02-01)
 
@@ -4138,14 +4148,4 @@
 
 ### New
 
-* [CI] Added new elements. ([f6103350d192611ea35205943da001c09038a7cc](https://github.com/advanced-rest-client/ui-elements/commit/f6103350d192611ea35205943da001c09038a7cc))
-
-
-
-<a name="1.0.308"></a>
-## [1.0.308](https://github.com/advanced-rest-client/ui-elements/compare/1.0.307...1.0.308) (2017-08-31)
-
-
-### New
-
-* [CI] Added new elements. ([0ecd387e8b9a0d09ebd57ee3fe237cd9b2e957b0](https://github.com/advanced-rest-client/ui-elements/commit/0ecd387e8b9a0d09
+* [CI] Added new elements. ([f6103350d192611ea35205943da001c09038a7cc](https://github.com/advanced-rest-client/ui-elements/commit/f6103350d192611e
