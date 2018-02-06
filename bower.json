@@ -39,7 +39,7 @@
     "response-body-view": "advanced-rest-client/response-body-view#^0.1.23",
     "response-view": "advanced-rest-client/response-view#^0.1.15",
     "response-error-view": "advanced-rest-client/response-error-view#^0.1.2",
-    "json-viewer": "advanced-rest-client/json-viewer#^0.1.10",
+    "json-viewer": "advanced-rest-client/json-viewer#^0.1.11",
     "response-raw-viewer": "advanced-rest-client/response-raw-viewer#^0.1.6",
     "response-highlighter": "advanced-rest-client/response-highlighter#^0.1.4",
     "xml-viewer": "advanced-rest-client/xml-viewer#^0.1.5",
