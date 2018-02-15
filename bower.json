@@ -117,7 +117,7 @@
     "exchange-search-panel": "advanced-rest-client/exchange-search-panel#^0.1.3",
     "arc-api-menu": "advanced-rest-client/arc-api-menu#^0.1.7",
     "themes-panel": "advanced-rest-client/themes-panel#^0.1.5",
-    "request-actions-panel": "advanced-rest-client/request-actions-panel#^0.1.8",
+    "request-actions-panel": "advanced-rest-client/request-actions-panel#^0.1.9",
     "condition-operator-dropdown": "advanced-rest-client/condition-operator-dropdown#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/ui-elements",
