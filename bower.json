@@ -52,7 +52,7 @@
     "headers-sets-selector": "advanced-rest-client/headers-sets-selector#^0.1.6",
     "form-data-editor": "advanced-rest-client/form-data-editor#^0.2.5",
     "raw-payload-editor": "advanced-rest-client/raw-payload-editor#^0.1.10",
-    "multipart-payload-editor": "advanced-rest-client/multipart-payload-editor#^0.2.6",
+    "multipart-payload-editor": "advanced-rest-client/multipart-payload-editor#^0.2.7",
     "files-payload-editor": "advanced-rest-client/files-payload-editor#^0.1.4",
     "payload-editor": "advanced-rest-client/payload-editor#^0.3.2",
     "arc-loader-screen": "advanced-rest-client/arc-loader-screen#^0.1.1",
